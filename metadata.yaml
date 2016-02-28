@@ -1,0 +1,40 @@
+_repo: Rejected-Addresses-Or-The-New-Theatrum-Poetarum_3769
+creator:
+  authors:
+  - agent_name: Smith, Horace
+    aliases:
+    - Saunders, Jefferson
+    - Chatfield, Paul
+    - Sanders, Jefferson
+    - Smith, Horatio
+    birthdate: 1779
+    deathdate: 1849
+    gutenberg_agent_id: '1295'
+    url: http://www.gutenberg.org/2009/agents/1295
+    wikipedia: http://en.wikipedia.org/wiki/Horace_Smith
+  - agent_name: Smith, James
+    birthdate: 1775
+    deathdate: 1839
+    gutenberg_agent_id: '1294'
+    url: http://www.gutenberg.org/2009/agents/1294
+description: "Rejected Addresses: Or, The New Theatrum Poetarum is the title of an\
+  \ 1812 book of parodies by the brothers James and Horace Smith. It contained 21\
+  \ good-natured parodies of authors of the time, and was a popular success. Horace\
+  \ Smith was also well known for his sonnet writing competition with Percy Shelly.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3769'
+  wikidata: Q7310534
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Parodies'
+title: Rejected Addresses; Or, The New Theatrum Poetarum
+url: http://www.gutenberg.org/ebooks/3769
+wikipedia:
+- https://en.wikipedia.org/wiki/Rejected_Addresses
