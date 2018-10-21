@@ -1,5 +1,5 @@
 _repo: Rejected-Addresses-Or-The-New-Theatrum-Poetarum_3769
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3769-h/images/coverb.jpg
@@ -40,6 +40,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Parodies'
+- GITenberg
 title: Rejected Addresses; Or, The New Theatrum Poetarum
 url: http://www.gutenberg.org/ebooks/3769
 wikipedia:
